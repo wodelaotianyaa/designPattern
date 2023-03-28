@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1策略模式/1策略模式.iml" filepath="$PROJECT_DIR$/1策略模式/1策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2观察者模式/2观察者模式.iml" filepath="$PROJECT_DIR$/2观察者模式/2观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3装饰者模式/3装饰者模式.iml" filepath="$PROJECT_DIR$/3装饰者模式/3装饰者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/designPattern.iml" filepath="$PROJECT_DIR$/.idea/designPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/策略模式/策略模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/观察者模式/观察者模式.iml" filepath="$PROJECT_DIR$/观察者模式/观察者模式.iml" />
     </modules>
   </component>
 </project>
