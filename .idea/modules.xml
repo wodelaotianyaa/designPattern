@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/5单例模式/5单例模式.iml" filepath="$PROJECT_DIR$/5单例模式/5单例模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/6命令模式/6命令模式.iml" filepath="$PROJECT_DIR$/6命令模式/6命令模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/7适配器模式与外观模式/7适配器模式与外观模式.iml" filepath="$PROJECT_DIR$/7适配器模式与外观模式/7适配器模式与外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8模板方法/8模板方法.iml" filepath="$PROJECT_DIR$/8模板方法/8模板方法.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/designPattern.iml" filepath="$PROJECT_DIR$/.idea/designPattern.iml" />
     </modules>
   </component>
